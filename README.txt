@@ -1,3 +1,3 @@
 Hello Git and Github
 
-It's a perfect day.
+It's a perfect day. Yay!
